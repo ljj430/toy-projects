@@ -3,6 +3,7 @@ import pandas as pd
 path = r'F:\SOEN_691\extracted_results\with_docstring_results_full.jsonl'
 save_path = r'F:\SOEN_691\extracted_results\with_docstring_results_full_{}.jsonl'
 
+
 #remove __intit__
 
 

@@ -1,6 +1,7 @@
 name: Run python script
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+# run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
+
 jobs:
   build: 
     runs-on: ubuntu-latest
